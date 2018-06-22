@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scame\'s dice</string>
+    <string name="yourScore">Your Score</string>
+    <string name="computerScore">Computer Score</string>
+</resources>
